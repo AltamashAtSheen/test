@@ -9,8 +9,6 @@ import 'package:order_pro_flutter/src/core/utils/utils.dart';
 /// Created by Auro on 17/07/24
 ///
 
-// THIS IS THE OLDER FILE FOR APP THEM
-
 class AppConfig {
   static late TemplateDatum currentTemplate;
   static late ThemeData currentTheme;
